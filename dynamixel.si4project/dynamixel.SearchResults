@@ -1,0 +1,3 @@
+---- strcmp Matches (2 in 1 files) ----
+DynamixelWorkbench::convertVelocity2Value in dynamixel_workbench.cpp :     if (strcmp(getModelName(id), "XL-320") == 0)
+DynamixelWorkbench::convertValue2Velocity in dynamixel_workbench.cpp :     if (strcmp(getModelName(id), "XL-320") == 0)
